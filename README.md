@@ -1,2 +1,0 @@
-# 2DGameDev
-Periode6GameDevDanielKalij
